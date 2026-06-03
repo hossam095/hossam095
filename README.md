@@ -16,8 +16,11 @@
 
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=L3+Informatique+%40+Lumi%C3%A8re+Lyon+2;Web+Dev+%7C+Data+Science+%7C+Video+Editor;Python+%7C+JS+%7C+NumPy+%7C+Pandas;Building+%2C+learning+%2C+shipping." alt="Typing SVG" />
+
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-salah-b32152337)
+
  
 </div>
 ---
