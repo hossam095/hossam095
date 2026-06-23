@@ -100,7 +100,7 @@ Actuellement obsédé par : **Python, NumPy, Pandas & les pipelines de données.
  
 ## `> ls ./projects`
  
-> 🚧 Projets en cours de construction — bientôt disponibles ici...
+
  <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
