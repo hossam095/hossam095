@@ -101,7 +101,30 @@ Actuellement obsédé par : **Python, NumPy, Pandas & les pipelines de données.
 ## `> ls ./projects`
  
 > 🚧 Projets en cours de construction — bientôt disponibles ici...
- 
+ <table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <h3> 🍿 Cinematch</h3>
+      <p>application web de recommendation des films.</p>
+      <ul>
+        <li>Permettre à un utilisateur de noter des films sur une échelle de 1 à 5 étoiles.</li>
+        <li>Générer des recommandations personnalisées à partir de ces notes</li>
+        <li> Combiner plusieurs approches algorithmiques pour améliorer la pertinence et la
+diversité des suggestions</li>
+        <li>Offrir une interface intuitive, claire et agréable à utilise</li>
+       <li>Gérer le cas particulier des nouveaux utilisateurs sans historique (problème du cold
+start) </li>   
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-000?style=flat-square&logo=reactdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=FastAPI&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
  
 ## `> cat ./skills`
